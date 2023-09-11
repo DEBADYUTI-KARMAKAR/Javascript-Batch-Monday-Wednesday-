@@ -1,4 +1,4 @@
-let str="Hello JavaScript";
+let str="Hello Javascript";
 document.write(str+"<br>");
 document.write(str.length +"<br>");
 document.write(str.charAt(2)+"<br>");
