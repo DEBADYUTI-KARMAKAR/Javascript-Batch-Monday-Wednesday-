@@ -1,0 +1,19 @@
+let data =[
+    {
+        id:1,
+        fname:"Debadyuti",
+        lname:"Karmakar"
+    },
+    {
+        id:2,
+        fname:"Mouman",
+        lname:"Dig"
+    },
+    {
+        id:3,
+        fname:"Soumita",
+        lname:"Das"
+    }
+]
+console.log(data[0]);
+console.log(data[0].fname);
