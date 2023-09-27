@@ -5,7 +5,7 @@ function len(num) {
     let count = 0
     while (num > 0) {
         count += 1;
-        num = Math.floor(num / 10)
+        num=parseInt(num/10);
     }
     return count;
 }
@@ -16,7 +16,7 @@ let sum=0;
 while(num>0){
     let r=num%10
     sum+=power(r,expo);
-    num=Math.floor(num/10);
+    num=parseInt(num/10);
 }
 //console.log(sum);
 if(sum==temp){
