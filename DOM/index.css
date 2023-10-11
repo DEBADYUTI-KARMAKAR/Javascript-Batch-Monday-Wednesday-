@@ -1,0 +1,20 @@
+h1{
+    color: red;
+    background-color:  blue;
+}
+
+p{
+    color: tomato;
+}
+
+#onep{
+    color: green;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.cl{
+    color: rgb(64, 64, 188);
+    font-size: 30px;
+    font-weight: bold;
+}
